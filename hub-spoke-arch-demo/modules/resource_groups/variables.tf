@@ -1,0 +1,1 @@
+variable "resource_group_map_of_object" {}
